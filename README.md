@@ -1,4 +1,4 @@
-### My name is Ivan Grekov
+### Hi there 👋, my name is Ivan Grekov
 #### I am frontend developer at Bumble
 ![I am frontend developer at Bumble](https://media-exp1.licdn.com/dms/image/C4E16AQHuPIolCZQHbQ/profile-displaybackgroundimage-shrink_350_1400/0?e=1604534400&v=beta&t=LUwHjCTspmJxcsXP-5ufjGD7j0A5ozr42EJd4LsdTQ0)
 
