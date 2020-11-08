@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Ivan Grekov
 #### I am frontend developer at Bumble
-![I am frontend developer at Bumble](https://media-exp1.licdn.com/dms/image/C4E16AQHuPIolCZQHbQ/profile-displaybackgroundimage-shrink_350_1400/0?e=1604534400&v=beta&t=LUwHjCTspmJxcsXP-5ufjGD7j0A5ozr42EJd4LsdTQ0)
+![I am frontend developer at Bumble](https://media-exp1.licdn.com/dms/image/C4E16AQHuPIolCZQHbQ/profile-displaybackgroundimage-shrink_350_1400/0?e=1610582400&v=beta&t=_5_rHl-2fZd9n0z22QUHv1EuHU2g8Qeixvz521Wsp50)
 
 I am working on variety of different javascript related projects - websites, single page applications, mobile applications,
 
